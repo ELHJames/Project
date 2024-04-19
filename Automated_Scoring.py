@@ -1,4 +1,5 @@
 #%%
+#The following automation was created by Euan Dolbel
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
